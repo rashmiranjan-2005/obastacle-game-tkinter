@@ -4,6 +4,16 @@
 
 ---
 
+## 📸 Preview
+
+![Game Screenshot](game_screenshot.png)
+
+![Game Screenshot 2](game_screenshot_2.png)
+
+![Game Screenshot 3](game_screenshot_3.png)
+
+---
+
 ## 📌 Overview
 This project is an interactive obstacle runner game where the player must jump over incoming obstacles to survive.  
 The game progressively increases in difficulty, creating an engaging and challenging experience.
