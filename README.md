@@ -43,21 +43,23 @@ The game progressively increases in difficulty, creating an engaging and challen
 
 ---
 
-## ▶️ How to Run
+## ▶️ How to Run, Author & Support
 
 ```bash
+# Run the project
 git clone https://github.com/rashmiranjan-2005/obstacle-game-tkinter.git
 cd obstacle-game-tkinter
 python obstaclegame.py
+```
 
 ---
 
-## 👨‍💻 Author
-**Rashmi Ranjan Das**  
-📌 Aspiring Software Developer  
-🔗 GitHub: https://github.com/rashmiranjan-2005
+### 👨‍💻 Author
+**Rashmiranjan Das**  
+🚀 Aspiring Software Developer  
+🔗 https://github.com/rashmiranjan-2005  
 
 ---
 
-## Support
+### ⭐ Support
 If you like this project, consider giving it a ⭐ on GitHub!
